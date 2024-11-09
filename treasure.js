@@ -46,7 +46,7 @@ var stygian_treasure = function() {
     {
       createTreasure: function(depth, rng) {
         var oil = rng.rollDice(3, 6);
-        return `Lantern and ${oil} worth of oil.`;
+        return `Lantern and ${oil} turns worth of oil.`;
       },
     },
     {
