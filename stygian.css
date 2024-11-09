@@ -1,6 +1,6 @@
 html body {
   font-family: 'IM Fell Great Primer', serif;
-  background-color: #221133;
+  background-color: #121212;
 }
 h1 {
   font-family: 'IM Fell Great Primer';
@@ -11,11 +11,11 @@ h2 {
 }
 h3 {
   padding: 1%;
-  background-color: #221133;
+  background-color: #121212;
   color: white;
 }
 table tr th {
-  background-color: #221133;
+  background-color: #121212;
   color: white;
 }
 table tr td:first-child {
@@ -25,7 +25,7 @@ table tr td:first-child {
   padding-left: 10px;
 }
 button {
-  background-color: #221133;
+  background-color: #121212;
   border: 3px solid white;
   outline: none;
   color: white;
@@ -40,7 +40,7 @@ button {
 }
 button:hover {
   background-color: white;
-  color: #221133;
+  color: #121212;
 }
 button:active {
   position: relative;
@@ -50,7 +50,7 @@ hr {
   overflow: visible;
   height: 30px;
   border-style: solid;
-  border-color: #221133;
+  border-color: #121212;
   border-width: 1px 0 0 0;
   border-radius: 20px;
 }
@@ -60,7 +60,7 @@ hr:before {
   height: 30px;
   margin-top: -31px;
   border-style: solid;
-  border-color: #221133;
+  border-color: #121212;
   border-width: 0 0 1px 0;
   border-radius: 20px;
 }
@@ -92,7 +92,7 @@ hr:before {
 }
 #content-container {
   background-color: white;
-  color: #221133;
+  color: #121212;
 }
 #content-inner {
   display: flex;
